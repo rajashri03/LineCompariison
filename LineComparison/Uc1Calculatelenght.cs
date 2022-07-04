@@ -20,7 +20,7 @@ namespace LineComparison
             Console.WriteLine("--------------------Calculate Lenght of one Line-----------------------");
             Console.WriteLine(Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2)));
 
-            Console.WriteLine("--------2 decimal point");
+            Console.WriteLine("--------2 decimal point------");
             double result= Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
             Console.WriteLine(Math.Round(result, 2));
         }

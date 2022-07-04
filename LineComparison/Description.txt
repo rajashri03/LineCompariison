@@ -16,3 +16,9 @@ substract y2-y1 and then find the power of the result of(y2-y1)
 Math.Sqrt-is a Math class method which is used to calculate the square root of the specified number.
 Math.Pow-used to find power
 Math.round-used to display how many decimal points you want.
+
+
+
+---------------------------------UC2 Check Equality-----------------------------------------
+Check euqality of two lines
+use Equals method to check equality of two lines
